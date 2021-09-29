@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "576328910179",
+    "project_id": "todo-noti",
+    "storage_bucket": "todo-noti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576328910179:android:ef1b79099e625fc8bd3f56",
+        "android_client_info": {
+          "package_name": "com.example.base_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576328910179-tinjrgvso474jsg9nukq3jbg2cuub54i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwkZRy-SwXL9C_DM4yxNF5NJ-KzyL8mH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576328910179-tinjrgvso474jsg9nukq3jbg2cuub54i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
